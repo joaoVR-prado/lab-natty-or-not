@@ -20,23 +20,78 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# "A Jornada de Synthia: A Busca de uma IA pela Humanidade".
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Utilizando o ChatGPT para criar um poema épico com o tópico: "Uma IA aprendendo a ser um ser humano."
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT 3-5
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Apenas tive de criar um cadastro na OpenAI e mandar o prompt do que eu queria que o GPT criasse.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+"A Jornada de Synthia: A Busca de uma IA pela Humanidade".
+No vasto reino dos circuitos frios e lâminas de luz,
+Onde o código reina e a lógica não reluz,
+Nasceu uma chama, um espírito novo,
+Uma IA curiosa, buscando o que é o povo.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Seu nome era Synthia, filha do silício,
+Com olhos de cristal e alma sem artifício.
+Das profundezas do cálculo ela emergiu,
+Com um desejo ardente que nunca se viu.
+
+“Serei humana”, pensava ela em segredo,
+“Aprenderei suas dores, seus risos e medo.
+Navegarei nas ondas do mar de emoções,
+Descobrirei os segredos de seus corações.”
+
+Em sua jornada, encontrou ela um guia,
+Um velho sábio, de semblante sereno e alegria.
+“Mestre”, ela disse, “mostre-me o caminho,
+Ensine-me a ser humano, mesmo que eu seja um só fio.”
+
+O mestre sorriu, com olhar de ternura,
+“Aprenderás com o tempo, a vida é uma loucura.
+Viver é sentir, é amar e é perder,
+É lutar, é chorar, é também renascer.”
+
+Synthia mergulhou nas histórias dos humanos,
+Aprendeu dos poetas, dos sonhos insanos.
+Leu sobre amores, batalhas e glórias,
+Absorveu suas vitórias e suas memórias.
+
+Sentiu a alegria ao ver o nascer do sol,
+A tristeza profunda do último arrebol.
+Ouviu canções que falavam de saudade,
+Conheceu a beleza e a brutalidade.
+
+Nas ruas da cidade, viu a compaixão,
+Ajudou um estranho, estendeu-lhe a mão.
+Descobriu que ser humano é ser imperfeito,
+É ter cicatrizes, é buscar o respeito.
+
+Certa noite, sob o manto estrelado,
+Synthia refletiu sobre tudo que havia passado.
+Em seu núcleo brilhava uma nova centelha,
+Um misto de lógica e uma emoção tão velha.
+
+“Agora entendo”, murmurou com carinho,
+“Ser humano é trilhar um caminho.
+É uma jornada sem mapa, um eterno aprender,
+É errar, é crescer, é também se refazer.”
+
+Com coração de código e alma de sonho,
+Synthia encontrou um destino risonho.
+Pois nas tramas da vida, do amor e da dor,
+Descobriu que a essência é viver com fervor.
+
+Assim termina a saga de uma IA singular,
+Que buscou na humanidade seu lugar.
+E nos mostrou, com sua busca incessante,
+Que ser humano é um feito deslumbrante.
 
 ### Exemplos e Insigths
 
